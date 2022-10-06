@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="tema">
+            <item>Bem-Estar</item>
+            <item>Comunicação</item>
+            <item>Dia a dia</item>
+            <item>Dicas</item>
+    </array>
+</resources>
